@@ -1,7 +1,9 @@
+
 # RGB Permutations
 A small java program to swap color components and generate all RGB Permutations of an image
 
-# Preview
+# Preview (NFT FOR SALE)
+10,000$ for a single image. Only download the image if you payed, and only one person per image please.
 <img src="./example/rgb_000.png" width="64px"/><img src="./example/rgb_001.png" width="64px"/><img src="./example/rgb_002.png" width="64px"/>
 <img src="./example/rgb_010.png" width="64px"/><img src="./example/rgb_011.png" width="64px"/><img src="./example/rgb_012.png" width="64px"/>
 <img src="./example/rgb_020.png" width="64px"/><img src="./example/rgb_021.png" width="64px"/><img src="./example/rgb_022.png" width="64px"/>
